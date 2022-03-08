@@ -1,0 +1,15 @@
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+   - python>=3.8
+   - numpy
+   - scipy
+   - scikit-image
+   - scikit-learn
+   - pandas
+   - xarray
+   - matplotlib
+   - cartopy
+   - seaborn
+   - h5py
